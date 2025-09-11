@@ -1,3 +1,9 @@
+
+# passo a passo para alterar o github pelo terminal 
+1 - git add .
+2 - git commit -m "adcionando pasta com codigos do tema"
+3 - git push
+
 # Adiciona o novo entre na pasta raiz do projeto
 git add .
 

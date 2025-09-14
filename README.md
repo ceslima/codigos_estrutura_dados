@@ -1,12 +1,12 @@
 ### Criação de novo repositorio
-…or create a new repository on the command line
-echo "# comandos_linux_basicos" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ceslima/comandos_linux_basicos.git
-git push -u origin main
+- …or create a new repository on the command line
+- echo "# comandos_linux_basicos" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin https://github.com/ceslima/comandos_linux_basicos.git
+- git push -u origin main
 
 ### Caso ja exista um repositorio
 …or push an existing repository from the command line

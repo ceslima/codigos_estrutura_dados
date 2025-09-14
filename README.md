@@ -14,6 +14,11 @@
 - git branch -M main
 - git push -u origin main
 
+### passo a passo atualização
+1 - git add .
+2 - git commit -m "comit"
+3 - git push -u origin main
+
 ### Inicializar a pasta no git
 git init
 
